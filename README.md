@@ -66,12 +66,17 @@
 
 ## 📄 Paper & Citation
 
+📘 This work was published in the **2024 IEEE India Geoscience and Remote Sensing Symposium (InGARSS)**.
+
 If you use this work in your research, please cite:
 
 ```bibtex
-@article{akhil2025saratr,
-  title={SAR RECONNAISSANCE: Unveiling Target Recognition via Pretext and Downstream Methodologies},
-  author={Ashad Vali P, Akhil R, Chetana K S, Vijayashekhar S S},
-  journal={Acharya Institute of Technology},
-  year={2025}
+@INPROCEEDINGS{10984364,
+  author={Ashad Vali, P and Akhil, R and Chetana, K S and Vijayashekhar, S S},
+  booktitle={2024 IEEE India Geoscience and Remote Sensing Symposium (InGARSS)}, 
+  title={SAR Reconnaissance: Unveiling Target Recognition Via Pretext and Downstream Methodologies}, 
+  year={2024},
+  pages={1-4},
+  keywords={Image recognition;Target recognition;Refining;Estimation;Reconnaissance;Network architecture;Radar polarimetry;Robustness;Real-time systems;Synthetic aperture radar;Synthetic Aperture Radar;Automatic target recognition;Moving and Stationary Target Acquisition and Recognition},
+  doi={10.1109/InGARSS61818.2024.10984364}
 }
