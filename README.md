@@ -55,14 +55,17 @@
    git clone https://github.com/akhilr13/Sar-atr.git
    cd Sar-atr
 2. **Install dependencies**
+   ```bash
     pip install -r requirements.txt
    
-3. **Run the notebook**
+4. **Run the notebook**
+   ```bash
    jupyter notebook saratr.ipynb
 
 
 
 ##📄 Paper & Citation
+
 If you use this work in your research, please cite:
 @article{akhil2025saratr,
   title={SAR RECONNAISSANCE: Unveiling Target Recognition via Pretext and Downstream Methodologies},
