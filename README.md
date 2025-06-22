@@ -67,6 +67,8 @@
 ## 📄 Paper & Citation
 
 If you use this work in your research, please cite:
+
+```bibtex
 @article{akhil2025saratr,
   title={SAR RECONNAISSANCE: Unveiling Target Recognition via Pretext and Downstream Methodologies},
   author={Ashad Vali P, Akhil R, Chetana K S, Vijayashekhar S S},
