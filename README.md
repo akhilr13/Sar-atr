@@ -3,23 +3,6 @@
 > A deep learning-based framework for **Automatic Target Recognition (ATR)** using **Synthetic Aperture Radar (SAR)** imagery. Combines **self-supervised learning** and **multi-scale feature extraction**, achieving **99.77% accuracy** on the MSTAR dataset — surpassing state-of-the-art methods.
 
 ---
-## 📄 Paper & Citation
-
-📘 This work was published in the **2024 IEEE India Geoscience and Remote Sensing Symposium (InGARSS)**.
-
-If you use this work in your research, please cite:
-
-```bibtex
-@INPROCEEDINGS{10984364,
-  author={Ashad Vali, P and Akhil, R and Chetana, K S and Vijayashekhar, S S},
-  booktitle={2024 IEEE India Geoscience and Remote Sensing Symposium (InGARSS)}, 
-  title={SAR Reconnaissance: Unveiling Target Recognition Via Pretext and Downstream Methodologies}, 
-  year={2024},
-  pages={1-4},
-  keywords={Image recognition;Target recognition;Refining;Estimation;Reconnaissance;Network architecture;Radar polarimetry;Robustness;Real-time systems;Synthetic aperture radar;Synthetic Aperture Radar;Automatic target recognition;Moving and Stationary Target Acquisition and Recognition},
-  doi={10.1109/InGARSS61818.2024.10984364}
-}
----
 
 ## 🚀 Key Features
 
@@ -78,6 +61,23 @@ If you use this work in your research, please cite:
 4. **Run the notebook**
    ```bash
    jupyter notebook saratr.ipynb
+
+ ## 📄 Paper & Citation
+
+📘 This work was published in the **2024 IEEE India Geoscience and Remote Sensing Symposium (InGARSS)**.
+
+If you use this work in your research, please cite:
+
+```bibtex
+@INPROCEEDINGS{10984364,
+  author={Ashad Vali, P and Akhil, R and Chetana, K S and Vijayashekhar, S S},
+  booktitle={2024 IEEE India Geoscience and Remote Sensing Symposium (InGARSS)}, 
+  title={SAR Reconnaissance: Unveiling Target Recognition Via Pretext and Downstream Methodologies}, 
+  year={2024},
+  pages={1-4},
+  keywords={Image recognition;Target recognition;Refining;Estimation;Reconnaissance;Network architecture;Radar polarimetry;Robustness;Real-time systems;Synthetic aperture radar;Synthetic Aperture Radar;Automatic target recognition;Moving and Stationary Target Acquisition and Recognition},
+  doi={10.1109/InGARSS61818.2024.10984364}
+}
 
 
 
