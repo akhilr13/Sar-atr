@@ -64,7 +64,7 @@
 
 
 
-##📄 Paper & Citation
+## 📄 Paper & Citation
 
 If you use this work in your research, please cite:
 @article{akhil2025saratr,
