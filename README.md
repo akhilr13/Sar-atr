@@ -19,6 +19,7 @@ If you use this work in your research, please cite:
   keywords={Image recognition;Target recognition;Refining;Estimation;Reconnaissance;Network architecture;Radar polarimetry;Robustness;Real-time systems;Synthetic aperture radar;Synthetic Aperture Radar;Automatic target recognition;Moving and Stationary Target Acquisition and Recognition},
   doi={10.1109/InGARSS61818.2024.10984364}
 }
+---
 
 ## 🚀 Key Features
 
